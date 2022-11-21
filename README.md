@@ -1,6 +1,6 @@
 # Menu
 <img src="pics/Menu.JPG">
-<h1>Clear and well-polished menu with plenty of options</h1>## Menu
+<h1>Clear and well-polished menu with plenty of options</h1>
 <h2>Settings - Ability to change the color</h2>
 <img src="pics/Colors.JPG">
 <h2>Changelog - An easy way to tell users what's new in miner</h2>

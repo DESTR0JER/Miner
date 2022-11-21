@@ -1,2 +1,2 @@
-# Miner
-Fake bitcoin address checker! 
+# Menu
+<img src="pics/Menu.JPG">
